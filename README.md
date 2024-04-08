@@ -15,4 +15,4 @@ Perhaps we can combine our talents and create something truly remarkable.
 To reach out, you can find me on Discord:
 
 Discord Name: AdamsArtscape
-Discord Username: @adams-artscape
+Discord Username: @adams_artscape
