@@ -1,7 +1,7 @@
 Hi, I'm @Mark5484.  
 
 My passion lies in crafting awe-inspiring digital art, utilizing a range of powerful tools like Stable Diffusion, Midjourney, Leonardo, 
-Runway, Adobe Express Beta, Canva, and many others. With these tools, I embark on artistic adventures that push the boundaries of imagination.
+Runway, Adobe Photosho, Canva, and many others. With these tools, I embark on artistic adventures that push the boundaries of imagination.
 Recently, I've been venturing into the captivating world of 3D rendering, eager to explore its endless possibilities. It's an exciting new chapter 
 in my creative pursuits, and I'm thrilled to learn and grow alongside fellow GitHub artists. 
 
